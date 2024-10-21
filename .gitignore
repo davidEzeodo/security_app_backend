@@ -37,4 +37,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-secrets.properties
+src/main/resources/secrets.properties
